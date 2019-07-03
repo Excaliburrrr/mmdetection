@@ -32,7 +32,7 @@ then use ` list_from_file` to load the list from `a.txt`
 ['/mnt/a', '/mnt/b', '/mnt/c', '/mnt/d', '/mnt/e']
 ```
 
-##　二. mmdet 
+## 二. mmdet 
 
 ### 2.1 介绍
 
